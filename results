@@ -1,0 +1,8 @@
+50000 aukcji, 10000 zapytań, mierzymy tylko czas zapytań.
+Round robin 5 Auction Search - 21s
+Round robin 10 Auction Search - 23s
+Round robin 4 Auction Search - 30s
+Round robin 2 Auction Search - 31s
+
+ScatterGatherFirstCompletedRoutingLogic 5 Auction Search - 
+
